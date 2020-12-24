@@ -9,7 +9,7 @@ MVI android
 
 Download ⇓⇓
 -----
-MVI with Android by [AbdElraouf Sabri](https://abd3lraouf.tech) is licensed under a [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+Download latest APK [doyoulikeme.apk](https://github.com/AbdElraoufSabri/MVILikeMe/releases/latest/download/doyoulikeme.apk) 
 
 SUPPORT ❤️
 -----
