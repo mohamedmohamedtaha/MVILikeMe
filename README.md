@@ -1,6 +1,6 @@
 <p align="center"><img src="art/preview.gif"></p>
 
-<p align="center"><img width="100" src="art/logo"></p>
+<p align="center"><img width="100" src="art/logo.png"></p>
 
 MVI android
 =================
