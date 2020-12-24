@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Do You Like AbdElraouf</string>
+    <string name="do_you_like_abdelraouf">Do you like AbdElraouf ?</string>
+    <string name="dislike">👎</string>
+    <string name="like">👍</string>
+    <string name="love">❤️</string>
+    <string name="mvi">MVI (Model view intent interaction)</string>
+    <string name="say_hi">Say Hi!</string>
+</resources>
